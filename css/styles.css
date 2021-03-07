@@ -1,15 +1,12 @@
 .first-block {
   background-color: #ff4c68;
   height: auto;
+  padding: 3% 15%;
 }
 
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-}
-
-.container-fluid {
-  padding: 3% 10%;
 }
 
 h1 {
@@ -54,7 +51,7 @@ h1 {
   max-height: 100%;
 }
 
-#second-block {
+.second-block {
   padding: 0 10%;
 }
 
@@ -81,4 +78,34 @@ h3 {
 
 .text-features {
   color: #8f8f8f;
+}
+
+.third-block {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 5% 15%;
+  color: #FFF;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testi-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.press-logo {
+  padding: 3%;
+  width: 15%;
 }
