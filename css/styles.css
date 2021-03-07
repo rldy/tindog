@@ -1,7 +1,7 @@
 .first-block {
   background-color: #ff4c68;
   height: auto;
-  padding: 3% 15%;
+  padding: 3% 10%;
 }
 
 body {
@@ -110,5 +110,5 @@ h2 {
 }
 
 .carousel-item {
-  padding: 5% 15%;
+  padding: 5% 10%;
 }
