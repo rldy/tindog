@@ -83,7 +83,6 @@ h3 {
 .third-block {
   background-color: #ef8172;
   text-align: center;
-  padding: 5% 15%;
   color: #FFF;
 }
 
@@ -108,4 +107,8 @@ h2 {
 .press-logo {
   padding: 3%;
   width: 15%;
+}
+
+.carousel-item {
+  padding: 5% 15%;
 }
