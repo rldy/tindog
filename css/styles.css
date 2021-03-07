@@ -1,7 +1,7 @@
 .first-block {
   background-color: #ff4c68;
   height: auto;
-  padding: 3% 10%;
+  padding: 3% 15%;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 1.5;
   color: #FFFFFF;
 }
@@ -28,7 +28,7 @@ h1 {
 }
 
 .nav-item {
-  padding: 5px 18px 5px 2px;
+  padding: 5px 18px;
 }
 
 .nav-link {
@@ -89,7 +89,7 @@ h3 {
 h2 {
   font-family: 'Montserrat-Bold', sans-serif;
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -110,5 +110,5 @@ h2 {
 }
 
 .carousel-item {
-  padding: 5% 10%;
+  padding: 5% 15%;
 }
