@@ -12,9 +12,22 @@ body {
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 1.5;
   color: #FFFFFF;
+}
+
+h2 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 .navbar {
@@ -41,7 +54,8 @@ h1 {
 }
 
 .download-button {
-  margin: 5% 5% auto auto;
+  margin: 5% 5% auto 0;
+  font-size: 1.5rem;
 }
 
 .main-image {
@@ -70,12 +84,6 @@ h1 {
   color: #ff4c88;
 }
 
-h3 {
-  font-family: 'Montserrat-Bold', sans-serif;
-  font-weight: bold;
-  font-size: 2rem;
-}
-
 .text-features {
   color: #8f8f8f;
 }
@@ -84,13 +92,6 @@ h3 {
   background-color: #ef8172;
   text-align: center;
   color: #FFF;
-}
-
-h2 {
-  font-family: 'Montserrat-Bold', sans-serif;
-  font-weight: bold;
-  font-size: 2rem;
-  line-height: 1.5;
 }
 
 .testi-image {
@@ -106,7 +107,7 @@ h2 {
 
 .press-logo {
   padding: 3%;
-  width: 15%;
+  width: 20%;
 }
 
 .carousel-item {
